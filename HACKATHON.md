@@ -1,7 +1,7 @@
 # Hackathon Project Registration
 
 ## Team Details
-- **Team Name**: PR-Power
+- **Team Name**: Observers
 - **Team Members**:
   - Priyum Deb
   - Sejal Kundnani
