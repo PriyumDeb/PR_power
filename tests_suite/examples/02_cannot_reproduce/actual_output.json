@@ -1,0 +1,12 @@
+{
+  "label": "cannot reproduce",
+  "confidence_score": 0.85,
+  "summary": "Snippet executed cleanly with exit code 0; no runtime errors observed.",
+  "symbol_exists": true,
+  "file_exists": null,
+  "exit_code": 0,
+  "caught_exception": null,
+  "stdout": "",
+  "stderr": "",
+  "reasons_for_uncertainty": []
+}
