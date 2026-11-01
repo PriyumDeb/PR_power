@@ -1,0 +1,12 @@
+{
+  "label": "confirmed",
+  "confidence_score": 0.9,
+  "summary": "Bug confirmed: reproduction raised unhandled runtime exception 'ZeroDivisionError'.",
+  "symbol_exists": true,
+  "file_exists": null,
+  "exit_code": 1,
+  "caught_exception": "ZeroDivisionError",
+  "stdout": "",
+  "stderr": "Traceback (most recent call last):\n  File \"<sandbox>/repro.py\", line 10, in <module>\n    divide(100, 0)\n    ~~~~~~^^^^^^^^\n  File examples/01_confirmed_bug/calculator.py\", line 3, in divide\n    return a / b\n           ~~^~~\nZeroDivisionError: division by zero\n",
+  "reasons_for_uncertainty": []
+}

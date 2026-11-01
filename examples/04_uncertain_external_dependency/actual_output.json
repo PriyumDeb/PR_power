@@ -1,0 +1,15 @@
+{
+  "label": "uncertain",
+  "confidence_score": 0.35,
+  "summary": "Cannot safely verify offline: requires external infrastructure (AWS S3, AWS credentials).",
+  "symbol_exists": true,
+  "file_exists": null,
+  "exit_code": null,
+  "caught_exception": null,
+  "stdout": null,
+  "stderr": null,
+  "reasons_for_uncertainty": [
+    "External dependency requirement: AWS S3",
+    "External dependency requirement: AWS credentials"
+  ]
+}

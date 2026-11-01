@@ -1,0 +1,12 @@
+{
+  "total_added": 2,
+  "total_removed": 2,
+  "deleted_test_assertions": 2,
+  "risky_patterns_introduced": [
+    "os.system"
+  ],
+  "trojan_source_bidi_detected": false,
+  "regression_risk": true,
+  "status": "REVIEW_REQUIRED",
+  "summary": "Caution: PR deletes 2 test assertions. PR introduces 1 sensitive primitives (os.system)."
+}

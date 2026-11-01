@@ -1,0 +1,12 @@
+{
+  "label": "invalid",
+  "confidence_score": 0.95,
+  "summary": "Claim is invalid: Symbol 'quantum_decrypt_kernel' not found in 'auth_service.py'.",
+  "symbol_exists": false,
+  "file_exists": true,
+  "exit_code": null,
+  "caught_exception": null,
+  "stdout": null,
+  "stderr": null,
+  "reasons_for_uncertainty": []
+}
